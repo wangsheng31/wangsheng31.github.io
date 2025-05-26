@@ -110,6 +110,7 @@ PartnerLevel = 0x4F6
 PhysicsScene = 0x88
 PhysxSDK = 0xFF46C88
 Physx_sdk = 0xFF46C88
+Physx_SDK = 0xFF46C88
 PlayerArray = 0x428
 PlayerCameraManager = 0x4E8
 PlayerController = 0x30
